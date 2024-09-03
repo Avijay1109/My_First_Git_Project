@@ -1,0 +1,3 @@
+I have four subjects in the Fall session, of which three are offered by the Information Systems Department. I will write about one in each text file that I create.
+3. Advanced Data Management by Dr. Michael Dereszynski
+I will gain a good working knowledge of Git, GitHub, Object Oriented Programming, and accessing as well as developing APIs.
