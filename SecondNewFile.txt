@@ -1,3 +1,3 @@
 I have four subjects in the Fall session, of which three are offered by the Information Systems Department. I will write about one in each text file that I create.
 2. Data Analytics Fundamentals by Dr. Kenneth Grifno
-It is a foundation course for learning the two most common platforms for managing data in modern organizations: Python and SQL. By the end of this subject, I want to gain good hands-on experience in Data Cleaning on Python and SQL.
+It is a foundation course for learning the two most common platforms for managing data in modern organizations: Python and SQL. By the end of this subject, I want to gain good hands-on experience in Data Cleaning on Python and SQL. I want to get an A in this subject.

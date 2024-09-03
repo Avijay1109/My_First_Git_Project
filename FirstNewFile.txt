@@ -1,5 +1,5 @@
 I have four subjects in the Fall session, of which three are offered by the Information Systems Department. I will write about one in each text file that I create.
 1. Decision Support Analytics by Mrs. Jana Gastineau
-I will study common analytics techniques and software systems to provide analytics-based information derived from databases to support management decision-making. By the end of this subject, I want to gain good hands-on experience on Tableau.
+I will study common analytics techniques and software systems to provide analytics-based information derived from databases to support management decision-making. By the end of this subject, I want to gain good hands-on experience on Tableau. I want to get an A in this subject.
  
  
